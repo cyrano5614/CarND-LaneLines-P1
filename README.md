@@ -7,7 +7,7 @@ In this project, we will explore and develop a pipeline to find a lane line on t
 
 * Develop pipeline to find lane lines on the road.
 * Apply the pipeline to images and videos provided.
-
+---
 [//]: # (Image References)
 [image1]: ./test_images_output/solidwhite.jpg
 [image2]: ./test_images_output/solidyellow.jpg
