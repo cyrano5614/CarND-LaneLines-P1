@@ -13,6 +13,7 @@ In this project, we will explore and develop a pipeline to find a lane line on t
 [image1]: ./test_images_output/solidwhite.jpg
 [image2]: ./test_images_output/solidyellow.jpg
 [image3]: ./test_images_output/solidWhiteCurve_process.jpg
+[image4]: ./test_images_output/solidYellowCurve_process.jpg
 
 ---
 
@@ -38,5 +39,7 @@ The pipeline consists of 6 steps.
 Each step is defined in P1.ipynb in 'Helper Functions' section.  Below is an example of pipeline steps.
 
 ![alt text][image3]
+
+![alt text][image4]
 
 The pipeline is not robust enough to handle various lighting conditions.  The robustness could be improved using various color masking technique to further distinguish the lane lines.
